@@ -1,5 +1,3 @@
-
-
 //related to arrays
 
 #include <stdio.h> 
