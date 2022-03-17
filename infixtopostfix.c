@@ -3,6 +3,8 @@
 #include<string.h>
 #include<stdlib.h>
 
+// Test
+
 # define MAX 50
 int stack[MAX];
 int top=-1;
