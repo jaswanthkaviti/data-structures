@@ -4,6 +4,9 @@
 #include<stdlib.h>
 
 // Test
+// Test 1
+// Test 2
+
 
 # define MAX 50
 int stack[MAX];
